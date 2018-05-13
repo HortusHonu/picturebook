@@ -5,7 +5,7 @@ Rails.application.configure do
   config.cache_classes = true
 
   # Devise mailer settings
-  config.action_mailer.default_url_options = { host: //picture-book.herokuapp.com }
+ # config.action_mailer.default_url_options = { host: //picture-book.herokuapp.com }
 
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both threaded web servers
